@@ -1,0 +1,2 @@
+# Sentiment-Analysis-using-LSTM-and-GloVe-Embeddings
+The model uses 50K movie reviews labelled as 'positive' and 'negative' that implements a Sentiment Analysis model using LSTM and GloVe(Global Vectors) Word Embeddings.  There is 100-dimmensional GloVe(Global Vectors) word Embeddings is used. It is an unsupervised learning algorithm used for the similar representation of words having same meanings. LSTM(Long Short-term Memory) is a type of RNN model used for handling long sequence dependencies for classification task.
